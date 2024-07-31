@@ -20,6 +20,13 @@ The user with write access will be used by the developer to write data to the da
 * When initializing the application, it will ask two connection strings, one with write access and one with read access.
  So replace the username and password in the connection string with the username and password of the user with write and read access respectively.
 
+## Installation
+You can install the package by running the following command:
+
+```bash
+pip install dgupdater
+```
+
 ## Initialization
 You have to open a terminal and navigate into the directory which you want to initialize for auto updation. Then run the following command:
 
